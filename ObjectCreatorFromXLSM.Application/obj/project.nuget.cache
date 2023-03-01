@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "doaxsRZlKUx8rLUPBlPugOZRZhLwmmKVPkFPM7hWDUOI3MjpNXrgrhlOyiwe7WKYR0Zma2iU/u2v1GNT1Pz5sg==",
+  "dgSpecHash": "8AijxdzTyx9d8snNRlWtgOWH5fdjgCrmwAcCkqxd+nXI7WA4mDnCIC9cF9ZlzZRiW8VRg7q7UW8J4BLyUBIDgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Norbert\\Desktop\\Zlecenie\\ObjectCreatorFromXLSM\\ObjectCreatorFromXLSM.Application\\ObjectCreatorFromXLSM.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Norbert\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\Norbert\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

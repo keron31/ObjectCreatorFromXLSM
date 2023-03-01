@@ -16,3 +16,5 @@ C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Te
 C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.TestApp\obj\Debug\net6.0\ObjectCreatorFromXLSM.TestApp.pdb
 C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.TestApp\obj\Debug\net6.0\ObjectCreatorFromXLSM.TestApp.genruntimeconfig.cache
 C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.TestApp\obj\Debug\net6.0\ref\ObjectCreatorFromXLSM.TestApp.dll
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.TestApp\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.TestApp\bin\Debug\net6.0\System.IO.Packaging.dll
