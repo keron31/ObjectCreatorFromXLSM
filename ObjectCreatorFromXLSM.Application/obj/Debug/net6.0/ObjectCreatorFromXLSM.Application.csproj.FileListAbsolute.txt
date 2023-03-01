@@ -1,0 +1,12 @@
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\bin\Debug\net6.0\ObjectCreatorFromXLSM.Application.deps.json
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\bin\Debug\net6.0\ObjectCreatorFromXLSM.Application.dll
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\bin\Debug\net6.0\ObjectCreatorFromXLSM.Application.pdb
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\obj\Debug\net6.0\ObjectCreatorFromXLSM.Application.csproj.AssemblyReference.cache
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\obj\Debug\net6.0\ObjectCreatorFromXLSM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\obj\Debug\net6.0\ObjectCreatorFromXLSM.Application.AssemblyInfoInputs.cache
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\obj\Debug\net6.0\ObjectCreatorFromXLSM.Application.AssemblyInfo.cs
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\obj\Debug\net6.0\ObjectCreatorFromXLSM.Application.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\obj\Debug\net6.0\ObjectCreatorFromXLSM.Application.dll
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\obj\Debug\net6.0\refint\ObjectCreatorFromXLSM.Application.dll
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\obj\Debug\net6.0\ObjectCreatorFromXLSM.Application.pdb
+C:\Users\Norbert\Desktop\Zlecenie\ObjectCreatorFromXLSM\ObjectCreatorFromXLSM.Application\obj\Debug\net6.0\ref\ObjectCreatorFromXLSM.Application.dll

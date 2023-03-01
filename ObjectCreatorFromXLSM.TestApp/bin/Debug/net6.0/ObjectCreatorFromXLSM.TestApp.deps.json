@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ObjectCreatorFromXLSM.TestApp/1.0.0": {
+        "dependencies": {
+          "ObjectCreatorFromXLSM.Application": "1.0.0"
+        },
+        "runtime": {
+          "ObjectCreatorFromXLSM.TestApp.dll": {}
+        }
+      },
+      "ObjectCreatorFromXLSM.Application/1.0.0": {
+        "runtime": {
+          "ObjectCreatorFromXLSM.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectCreatorFromXLSM.TestApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObjectCreatorFromXLSM.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
